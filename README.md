@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="80%" src="https://media.licdn.com/dms/image/v2/D5603AQEJkzrDyyW-Mw/profile-displayphoto-crop_800_800/B56ZlMJQiIH8AI-/0/1757919121484?e=1764806400&v=beta&t=gagvCrgMaUYSB1heTh-b7I8lHgQsVxi-tj0oP9HHu4o" alt="GitHub Banner" />
+  <img width="100%" hight="50%" src="https://media.licdn.com/dms/image/v2/D5603AQEJkzrDyyW-Mw/profile-displayphoto-crop_800_800/B56ZlMJQiIH8AI-/0/1757919121484?e=1764806400&v=beta&t=gagvCrgMaUYSB1heTh-b7I8lHgQsVxi-tj0oP9HHu4o" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Alex Johnson</h1>
