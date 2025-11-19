@@ -70,17 +70,40 @@ Shopping site with cart system, filtering & user authentication.
 ---
 
 ## 🌐 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/demo-user" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-  </a>
-  <a href="https://portfolio.demo.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" height="35"/>
-  </a>
-  <a href="mailto:demo@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
-  </a>
+
+<p align="left">
+
+<!-- Facebook -->
+<a href="https://facebook.com/your-profile" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
+</a>
+
 </p>
+
+
+
+
+## 📌 Pinned Repositories
+
+### 1️⃣ b12-a10-future-box-client-SohelRana450
+A modern Art-Sharing frontend and backend for showcasing and selling artworks with dynamic galleries and smooth UI.
+🔗 Live: https://lucent-brigadeiros-09ffdf.netlify.app/
+🔗 Tech: React, Tailwind CSS, JavaScript, Firebase, MongoDB, Express.js, Node.js
+
+### 2️⃣ b12-a9-firesheild-SohelRana450
+A responsive web application providing indoor-plant features and interactive UI components.
+🔗 Live: https://indoor-plant-d6828.web.app/
+🔗 Tech: React, JavaScript, Tailwind CSS, Firebase
+
+### 3️⃣ B12-A08-Hero-Apps-react
+A responsive web application providing hero-themed features and interactive UI components.
+🔗 Live: https://dragon-b12-a08-hero-apps-react.netlify.app/
+🔗 Tech: React, Tailwind CSS, JavaScript, Context API
 
 ---
 
