@@ -69,8 +69,10 @@ I am a passionate Frontend Developer, exploring modern web technologies and buil
 
 **Dependencies:** React, React Router, Firebase, SweetAlert2, React Awesome Reveal, React Simple Typewriter, Tailwindcss, DaisyUi, Swiper.js  
 
+**Live Link: https://lucent-brigadeiros-09ffdf.netlify.app/
+
 **Screenshot:**  
-<img src="https://i.ibb.co.com/XrNRnShq/Screenshot-2025-11-19-141624.png"> 
+<img src="https://i.ibb.co.com/x86bDLff/Screenshot-2025-11-19-161759.png"> 
 
 
 
